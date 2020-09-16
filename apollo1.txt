@@ -1,0 +1,62 @@
+<html><head>
+<title> MUSICA DE SANDRA MARY  </title>
+    <link rel="stylesheet" href="style1.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="menu-bar">
+<ul>
+<li class="active"><a href="#"><i class="fa fa-home"></i>
+home</a></li>
+<li><a href="#"><i class="fa fa-user"></i>about Us</a>
+    <div class="sub-menu-1">
+        <ul>
+            <li><a href="#">mision</a></li>
+            <li><a href="#">mision</a></li>
+            <li><a href="#">team</a></li>
+        </ul>
+    </div>
+</li>        
+<li><a href="#"><i class="fa fa-clone"></i>servicio</a><div class="sub-menu-1">
+<ul>
+<li><a href="#">web de yami</a></li>
+<li class="hover-me"><a href="#">web de moises</a><i class="fa fa-angle-right"></i>
+<div class="sub-menu-2">
+<ul>
+ <li><a href="#">hola</a></li>
+ <li><a href="#">yeca</a></li>
+ <li class="hover-me"><a href="#">moises</a><i class="fa fa-angle-right"></i>
+    <div class="sub-menu-2">
+        <ul>
+            <li><a href="#">uno</a></li>
+            <li><a href="#">dos</a></li> 
+            <li><a href="#">tres</a></li>
+            <li><a href="#">cuatro</a></li>
+     
+     </ul>    
+   </div></li>
+  </ul>
+ </div>
+</li>
+<li class="hover-me"><a href="#">web mama</a><i class="fa fa-angle-right"></i>
+    <div class="sub-menu-2">
+        <ul>
+            <li><a href="#">uno</a></li>
+            <li><a href="#">dos</a></li> 
+            <li><a href="#">tres</a></li>
+            <li><a href="#">cuatro</a></li>
+     
+        </ul>
+        </div></li>
+     </ul>
+</div>
+</li>
+<li><a href="#"><i class="fa fa-users"></i>clientes</a></li>
+<li><a href="#"><i class="fa fa-angellist"></i>investiga</a></li>
+<li><a href="#"><i class="fa fa-inr"></i>precio</a></li>
+<li><a href="#"><i class="fa fa-edit"></i>trainig</a></li>
+<li><a href="#"><i class="fa fa-phone"></i>contact</a></li>
+</ul>
+</div>
+
+</body></html>
